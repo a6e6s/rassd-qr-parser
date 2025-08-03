@@ -1,0 +1,18 @@
+{
+    "name": "a6e6s/rassd-qr-parser",
+    "description": "A PHP parser for RASSD GS1 QR codes",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "A6e6s\\RassdQrParser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahamed Elmahdy",
+            "email": "a6e6s1@gmail.com"
+        }
+    ],
+    "require": {}
+}
